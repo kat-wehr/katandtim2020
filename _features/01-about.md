@@ -1,6 +1,6 @@
 ---
 id: about
-name: A Wedding Celebration
+name: Where
 heading: Saucon Valley Acres
 subheading: 
 image: "http://placehold.it/500x500"
