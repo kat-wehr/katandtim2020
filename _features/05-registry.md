@@ -3,7 +3,7 @@ id: Registry
 name: Registry
 heading: Registry 
 subheading: 
-image: 
+image: http://placehold.it/500x500
 ---
 
 Testing 
