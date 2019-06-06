@@ -3,7 +3,7 @@ id: services
 name: Lodging
 heading: Where to Stay
 subheading: Subheading 
-image: "http://placehold.it/500x500"
+image: "images/steelstacks.jpg"
 ---
 
 ### Hotels
