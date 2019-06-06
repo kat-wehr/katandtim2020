@@ -6,7 +6,7 @@ subheading:
 image: "http://placehold.it/500x500"
 ---
 
-Please respond by Sept. 4, 2020
+Let us know if you can join us by Sept. 4, 2020
 
 RSVP online: 
 
