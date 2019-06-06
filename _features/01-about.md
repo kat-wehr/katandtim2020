@@ -1,9 +1,9 @@
 ---
 id: about
-name: About
-heading: This First Heading
-subheading: Will Catch Your Eye
+name: A Wedding Celebration
+heading: Saucon Valley Acres
+subheading: Bethlehem, PA
 image: "http://placehold.it/500x500"
 ---
 
-Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+You are invited to join Tim and Katrina as they celebrate their commitment at [Saucon Valley Acres in Bethlehem, PA.](https://www.google.com/maps/place/Saucon+Valley+Acres+Catering+Inc/@40.5811091,-75.398405,15z/data=!4m5!3m4!1s0x0:0x35c5f5639163f35b!8m2!3d40.5811091!4d-75.398405) 
