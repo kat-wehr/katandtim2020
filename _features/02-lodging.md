@@ -2,7 +2,7 @@
 id: services
 name: Lodging
 heading: Where to Stay
-subheading: Subheading test
+subheading: Subheading 
 image: "http://placehold.it/500x500"
 ---
 
