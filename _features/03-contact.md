@@ -7,4 +7,5 @@ image: "http://placehold.it/500x500"
 ---
 
 RSVP online: 
-Mail your RSVP to: 
+
+Return your RSVP to the address noted in your invitation.
