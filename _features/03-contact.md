@@ -2,10 +2,10 @@
 id: contact
 name: RSVP
 heading: répondez s'il vous plaît
-subheading: 
+subheading: Sept. 4, 2020
 image: "http://placehold.it/500x500"
 ---
 
 RSVP online: 
 
-Return your RSVP to the address noted in your invitation.
+Or, if preferred, return your RSVP to the address noted in your invitation.
