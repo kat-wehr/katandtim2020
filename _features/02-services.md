@@ -1,6 +1,6 @@
 ---
 id: services
-name: Services
+name: Lodging
 heading: Where to Stay
 subheading: 
 image: "http://placehold.it/500x500"
