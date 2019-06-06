@@ -1,8 +1,8 @@
 ---
 id: Extras
 name: Extras
-heading: The Cute Stuff
-subheading: 
+heading: Extras
+subheading: The Cute Stuff
 image: "images/IMG_0025v2copy.jpg"
 ---
 
