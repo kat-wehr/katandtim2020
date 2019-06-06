@@ -3,7 +3,7 @@ id: Extras
 name: Extras
 heading: The Cute Stuff
 subheading: 
-image: "/images/IMG_0025.jpg"
+image: "images/IMG_0025.jpg"
 ---
 
 ### Wedding Party
