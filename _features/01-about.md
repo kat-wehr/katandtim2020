@@ -2,7 +2,7 @@
 id: about
 name: Where
 heading: Saucon Valley Acres
-subheading: 
+subheading: Bethlehem, PA
 image: "images/gazebo.jpg"
 ---
 
