@@ -1,8 +1,8 @@
 ---
 id: about
 name: A Wedding Celebration
-heading: Saucon Valley Acres
-subheading: Bethlehem, PA
+heading: Where?
+subheading: Saucon Valley Acres
 image: "http://placehold.it/500x500"
 ---
 
