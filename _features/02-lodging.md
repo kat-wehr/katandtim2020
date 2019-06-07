@@ -2,7 +2,7 @@
 id: services
 name: Accomodations
 heading: Accomodations
-subheading: & Things to Do 
+subheading: And Things to Do 
 image: "images/steelstacks.jpg"
 ---
 
