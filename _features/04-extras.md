@@ -13,7 +13,7 @@ Just | Testing | A Table
 :--- | :---: | ---:
 A Name | A Name | A Name
 Another | One More| Cool
-[ ](images/coast.jpg) | let's test the pic | and some extra text
+![my image](images/coast.jpg) | let's test the pic | and some extra text
 
 ### How We Met
 Summary version 
