@@ -9,17 +9,11 @@ image: "images/IMG_0025v2copy.jpg"
 ### Wedding Squad
 Maybe a table here 
 
-Just | Testing | A Table
+Who | Relationship | Role
 :--- | :---: | ---:
-A Name | A Name | A Name
-Another | One More| Cool
-<img src="../images/coast.jpg"> | let's test the pic | and some extra text
-
-does it work not in the table 
-
-![my image](images/coast.jpg)
-
-<img src="../images/coast.jpg">
+<img src="../images/coast.jpg"> | A Name | Groomsman
+<img src="../images/coast.jpg"> | Sally Ann is my friend from high school. | Bridesmaid
+<img src="../images/coast.jpg"> | This is Billy Bob. He is our friend from school. | Groomsman
 
 ### How We Met
 Summary version 
