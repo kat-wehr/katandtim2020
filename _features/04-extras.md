@@ -11,7 +11,7 @@ Maybe a table here
 
 Who | Relationship | Role
 :--- | :---: | ---:
-<img src="../images/coast.jpg"> | A Name | Groomsman
+<img src="/images/coast.jpg"> | A Name | Groomsman
 <img src="../images/coast.jpg"> | Sally Ann is my friend from high school. | Bridesmaid
 <img src="../images/coast.jpg"> | This is Billy Bob. He is our friend from school. | Groomsman
 
