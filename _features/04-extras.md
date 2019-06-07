@@ -15,5 +15,8 @@ A Name | A Name | A Name
 Another | One More| Cool
 ![my image](images/coast.jpg) | let's test the pic | and some extra text
 
+does it work not in the table 
+![my image](images/coast.jpg)
+
 ### How We Met
 Summary version 
