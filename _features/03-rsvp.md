@@ -1,8 +1,8 @@
 ---
 id: contact
 name: RSVP
-heading: Répondez S'il Vous Plaît
-subheading: RSVP
+heading: RSVP
+subheading: Répondez S'il Vous Plaît
 image: "http://placehold.it/500x500"
 ---
 
