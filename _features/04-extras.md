@@ -10,7 +10,7 @@ image: "images/IMG_0025v2copy.jpg"
 Maybe a table here 
 
 Just | Testing | A Table
---- | --- | ---
+:--- | :---: | ---:
 A Name | A Name | A Name
 Another | One More| Cool
 
