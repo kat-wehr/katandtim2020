@@ -1,5 +1,7 @@
 ---
 layout: compress
+image_sliders:
+  - example_slider
 ---
 <!DOCTYPE html>
 <html>
@@ -8,5 +10,6 @@ layout: compress
   	{% include navigation.html %}
   	{{ content }}
   	<script src='{{ site.baseurl }}/assets/app.js'></script>
+	{% include slider.html selector="example_slider" %}
 	</body>
 </html>
