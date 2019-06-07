@@ -19,5 +19,7 @@ does it work not in the table
 
 ![my image](images/coast.jpg)
 
+<img src="{{site.baseurl}}/images/coast.jpg">
+
 ### How We Met
 Summary version 
