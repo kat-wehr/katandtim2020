@@ -1,8 +1,8 @@
 ---
 id: services
-name: Lodging
+name: Accomodations
 heading: Accomodations
-subheading: Southside, Bethlehem 
+subheading: & Things to Do 
 image: "images/steelstacks.jpg"
 ---
 
