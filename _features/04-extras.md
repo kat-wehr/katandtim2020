@@ -7,7 +7,7 @@ image: "images/IMG_0025v2copy.jpg"
 ---
 
 ### Wedding Squad
-Maybe a table here 
+Maybe a table here but it's not working in production. 
 
 Who | Relationship | Role
 :--- | :---: | ---:
