@@ -7,13 +7,14 @@ image: "images/IMG_0025v2copy.jpg"
 ---
 
 ### Wedding Squad
-Maybe a table here but it's not working in production. 
+
+Not sure if we need "role" or Relationship
 
 Who | Relationship | Role
 :---: | :---: | :---:
-<img src="images/coast.jpg"> | A Name | Title
-<img src="images/coast.jpg"> | Sally Ann is my friend from high school. | Title
-<img src="images/coast.jpg"> | This is Billy Bob. He is our friend from school. | Title
+<img src="images/coast.jpg"> | **Name** is our friend. | Title
+<img src="images/coast.jpg"> | **Sally Ann** is Katrina's friend from high school. | Title
+<img src="images/coast.jpg"> | **Billy Bob** is our friend from college. | Title
 
 ### How We Met
 Summary version 
