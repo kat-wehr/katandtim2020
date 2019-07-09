@@ -11,9 +11,9 @@ Maybe a table here but it's not working in production.
 
 Who | Relationship | Role
 :--- | :---: | ---:
-<img src="/images/coast.jpg"> | A Name | Title
-<img src="../images/coast.jpg"> | Sally Ann is my friend from high school. | Title
-<img src="../images/coast.jpg"> | This is Billy Bob. He is our friend from school. | Title
+<img src="images/coast.jpg"> | A Name | Title
+<img src="images/coast.jpg"> | Sally Ann is my friend from high school. | Title
+<img src="images/coast.jpg"> | This is Billy Bob. He is our friend from school. | Title
 
 ### How We Met
 Summary version 
