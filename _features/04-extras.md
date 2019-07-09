@@ -10,11 +10,11 @@ image: "images/IMG_0025v2copy.jpg"
 
 Thinking about just doing pics and names/blurbs 
 
-Who | Relationship | Role
-:---: | :---: | :---:
-<img src="images/coast.jpg"> | **Name** is our friend. | Title
-<img src="images/coast.jpg"> | **Sally Ann** is Katrina's friend from high school. | Title
-<img src="images/coast.jpg"> | **Billy Bob** is our friend from college. | Title
+Pic | Relationship | Pic | Relationship 
+:---: | :---: | :---: | :--:
+<img src="images/coast.jpg"> | **Name** is our friend. | <img src="images/coast.jpg"> | **Another Person** will be here
+<img src="images/coast.jpg"> | **Sally Ann** is Katrina's friend from high school. | <img src="images/coast.jpg"> | **One more person** will be here
+<img src="images/coast.jpg"> | **Billy Bob** is our friend from college. | 
 
 ### How We Met
 Tim enrolled in the Ecology graduate program at Penn State to work on his Master's and moved to State College in summer 2015. 
