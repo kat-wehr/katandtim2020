@@ -10,10 +10,10 @@ You are invited to join Tim and Katrina as they celebrate their commitment at [S
 
 ### Order of Events
 - Ceremony: 4:30 PM 
-- Cocktail Hour: 5:00 - 6:00 PM
+- Cocktail Hour: 5:30 - 6:30 PM
 - Buffet Dinner: 6:30 - 7:30 PM
-- Band gets on stage: 7:30 PM
-- Last Call: 9:30 PM
+- Band takes the stage: 7:30 PM
+- Last Call: 10:00 PM
 
 ### Afterparty
 Details to come
